@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 from ortools.sat.python import cp_model
 import pandas as pd
